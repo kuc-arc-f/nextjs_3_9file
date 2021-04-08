@@ -18,9 +18,6 @@ Next.js  , image file upload sample
 
 * npm install
 
-
-```
-
 ***
 ### start server
 * Start :
