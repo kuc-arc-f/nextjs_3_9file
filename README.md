@@ -6,7 +6,7 @@
 
  date    : 2021/04/08
 
- update  :
+ update  : 2021/04/09
 
 ***
 ### Summary
@@ -28,6 +28,9 @@ yarn dev
 ***
 ### Blog :
 
+Next.js 画像アップロードの例
+
+https://zenn.dev/knaka0209/articles/321a41a977a723
 
 ***
 
